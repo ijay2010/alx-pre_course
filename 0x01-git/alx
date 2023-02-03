@@ -1,0 +1,7 @@
+clear echo 'ALX'
+
+echo 'ALX School' >bash/alx
+cat bash/al
+clear echo 'School'
+echo 'The school is open!' >bash/school
+
